@@ -1,0 +1,17 @@
+
+h2{
+    align-self: center;
+}
+
+.sub{
+    display: flex;
+    margin: 5px;
+    width: 40px;
+    height: 80px;
+}
+
+
+.linha {
+    border-left: 6px solid #39CACC;
+    height: 500px;
+  }
