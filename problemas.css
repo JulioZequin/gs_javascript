@@ -1,0 +1,72 @@
+
+h1{
+    color: white;
+    font-size: 50px;
+}
+
+div.bg{
+    background-image: url("/img/problema.jpg");
+    filter: blur(5px);
+    display: flex;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 650px;
+}
+
+.princ{
+    position: absolute;
+    justify-content: space-between;
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    align-items: center;
+    top: 15%;
+    left: 15%;
+}
+
+.bloco1{
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.text1{
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+}
+
+.text2{
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+}
+
+.img1{
+    width: 400px;
+    margin: 20px;
+}
+
+.img2{
+    width: 400px;
+    margin: 20px;
+}
+
+.linha{
+    border-left: 2px solid white;
+    height: 500px;
+    margin: 0px 30px;
+}
+
+.subtext{
+    margin: 20px;
+    border-radius: 10px;
+    width: 400px;
+    padding: 5px;
+    text-align: center;
+    font-size: 30px;
+    font-family: "Times New Roman", Times, serif;
+    color: whitesmoke;
+    background-color: rgba(31, 168, 169, 0.5);
+  }
